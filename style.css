@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: #BBBBBB;
+    background-color: #BBBBBB; 
     padding: 20px 0;
 }
 
@@ -33,7 +33,7 @@ nav a{
     text-transform: uppercase;
     color: black;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 23px;
     text-decoration: none;
 }
 
